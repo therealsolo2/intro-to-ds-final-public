@@ -214,12 +214,6 @@ These files allow the reported results to be reproduced and validated.
 
 ---
 
-# Repository
-
-https://github.com/therealsolo2/intro-to-ds-final
-
----
-
 # Installation
 
 Clone the repository:
