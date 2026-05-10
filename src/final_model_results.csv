@@ -1,0 +1,9 @@
+Experiment,Model,MSE,RMSE,R2
+Baseline,Linear Regression,95.5021,9.7725,0.733
+Baseline,Gradient Boosting,97.0292,9.8503,0.7287
+Baseline,XGBoost,97.7032,9.8845,0.7269
+Baseline,Random Forest,105.892,10.2904,0.704
+Hybrid + KMeans Cluster,Linear Regression,95.4996,9.7724,0.733
+Hybrid + KMeans Cluster,Gradient Boosting,97.0292,9.8503,0.7287
+Hybrid + KMeans Cluster,XGBoost,97.2931,9.8637,0.728
+Hybrid + KMeans Cluster,Random Forest,106.045,10.2978,0.7035
