@@ -219,7 +219,7 @@ These files allow the reported results to be reproduced and validated.
 Clone the repository:
 
 ```bash
-git clone https://github.com/therealsolo2/intro-to-ds-final.git
+git clone https://github.com/therealsolo2/intro-to-ds-final-public.git
 cd intro-to-ds-final
 ```
 
